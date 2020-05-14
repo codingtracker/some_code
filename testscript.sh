@@ -4,4 +4,3 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
 echo "$NUMBER"
-echo "Echo numbers $NUMBER again"
